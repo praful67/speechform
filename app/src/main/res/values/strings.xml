@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpeechForm</string>
+    <array name="menuOptions">
+        <item>SOS</item>
+        <item>Employees List</item>
+        <item>Drivers List</item>
+        <item>Created</item>
+        <item>Read</item>
+    </array>
+
+    <string name="speech_prompt">Say Your Input&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+
+</resources>
