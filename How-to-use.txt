@@ -1,0 +1,24 @@
+SpeechForm for problem statement - Fill application form without typing
+
+This app is basically to fill a form by our speech or voice I should say. This app can fill any form present in a website.
+Just copy Url of the website in which there a form to be filled and paste it in this app's url box and tap  "Go".
+As soon as the page loads, we will see a popup where we see inputs fields of type "text","email" , "password"and textareas
+which are the most common used types, with its label (if there is) and hint of it(placeholder) eg for input like:
+
+Your User : Enter your username  -- It shows : Your user : (hint) Enter your username
+
+Just to show which input is in take.
+
+It shows all inputs in a page, thats why in case if the website is not showing all inputs, it looks like its showing extra
+inputs but thats not the case, its just shows all inputs of that types above.
+
+In the popup tap "start" and its start asking to speak for the input, listen and speak for that respective input field
+and it will fill that input.
+
+We have autofill option to. It detects which inputs contain your autofill keys in Autofill data page, and shows to
+you in Autofill popup.
+
+Test urls :
+https://tympanus.net/Tutorials/LoginRegistrationForm/index.html 
+https://www.w3schools.com/bootstrap/trybs_theme_company_full.htm
+
